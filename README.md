@@ -21,8 +21,3 @@ I value **clean code**, **performance**, **responsive design**, and **continuous
 </p>
 
 **Also familiar with:** Responsive Design • REST APIs • RTL Support • Auth.js
-
-## Currently open to
-
-Junior front-end / React developer positions (Israel or remote)  
-Feel free to reach out via email or LinkedIn — always happy to chat!
