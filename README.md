@@ -1,18 +1,18 @@
 # Hi there! I'm Rodion Kreimer
 
-**Junior Front-End / React Developer**
+**Junior Front-End / Full-Stack Developer**
 
 kreimerrodion@gmail.com | [LinkedIn](https://www.linkedin.com/in/rodion-kreimer/) | Nof HaGalil, Israel
 
 ---
 
-I'm a self-taught front-end developer passionate about building **responsive** and **interactive** web applications.  
+I'm a self-taught front-end / full-stack developer passionate about building **responsive** and **interactive** web applications.  
 I enjoy creating clean, maintainable user interfaces, focusing on great user experience, and turning ideas into polished products.
 
 I value **clean code**, **performance**, **responsive design**, and **continuous learning**.
 
 - **Fun fact** — I taught myself programming while finishing high school — self-discipline and curiosity still guide my approach to development
-- **I'm interested in** — React ecosystem, modern frontend tooling, scalable UI architecture, and occasional full-stack experiments
+- **I'm interested in** — React ecosystem, modern frontend tooling and scalable UI architecture
 
 ## 🛠️ My skills include
 
