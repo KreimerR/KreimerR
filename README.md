@@ -11,8 +11,8 @@ I enjoy creating clean, maintainable user interfaces, focusing on great user exp
 
 I value **clean code**, **performance**, **responsive design**, and **continuous learning**.
 
-- **Fun fact** — I taught myself programming while finishing high school — self-discipline and curiosity still guide my approach to development
-- **I'm interested in** — React ecosystem, modern frontend tooling and scalable UI architecture
+- **Fun fact** — I taught myself programming while finishing high school — self-discipline still guides my approach to development
+- **I'm interested in** — React ecosystem, modern front-end tooling and scalable UI architecture
 
 ## 🛠️ My skills include
 
