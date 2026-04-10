@@ -6,10 +6,10 @@ kreimerrodion@gmail.com | [LinkedIn](https://www.linkedin.com/in/rodion-kreime
 
 ---
 
-I'm a self-taught front-end / full-stack developer passionate about building **responsive** and **interactive** web applications.  
+I'm a self-taught Front-End / Full-Stack developer passionate about building responsive and interactive web applications.  
 I enjoy creating clean, maintainable user interfaces, focusing on great user experience, and turning ideas into polished products.
 
-I value **clean code**, **performance**, **responsive design**, and **continuous learning**.
+I value clean code, performance, responsive design, and continuous learning.
 
 - **Fun fact** — I taught myself programming while finishing high school — self-discipline still guides my approach to development
 - **I'm interested in** — React ecosystem, modern front-end tooling and scalable UI architecture
