@@ -6,15 +6,13 @@ kreimerrodion@gmail.com | [LinkedIn](https://www.linkedin.com/in/rodion-kreime
 
 ---
 
-I'm a self-taught Front-End / Full-Stack developer passionate about building responsive and interactive web applications.  
-I enjoy creating clean, maintainable user interfaces, focusing on great user experience, and turning ideas into polished products.
+Front-End / Full-Stack Developer focused on building modern web applications with React, Next.js, TypeScript, and MongoDB.
 
-I value clean code, performance, responsive design, and continuous learning.
+I build responsive, interactive applications with clean UI, authentication flows, API integrations, and full-stack functionality. I enjoy creating polished user experiences, writing maintainable code, and continuously improving my development skills.
 
-- **Fun fact** — I taught myself programming while finishing high school — self-discipline still guides my approach to development
-- **I'm interested in** — React ecosystem, modern front-end tooling and scalable UI architecture
+Self-taught developer who started building modern web applications while completing high school.
 
-## 🛠️ My skills include
+## My skills include
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,scss,js,html,css,git,nodejs,mongodb,jest,figma" alt="Skills" />
