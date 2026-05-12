@@ -1,6 +1,6 @@
 # Hi there! I'm Rodion Kreimer
 
-**Junior Front-End / Full-Stack Developer**
+**Front-End / Full-Stack Developer**
 
 kreimerrodion@gmail.com | [LinkedIn](https://www.linkedin.com/in/rodion-kreimer/) | Nof HaGalil, Israel
 
