@@ -1,4 +1,4 @@
-# Hi there! I'm Rodion Kreimer
+# Rodion Kreimer
 
 **Front-End / Full-Stack Developer**
 
@@ -14,7 +14,7 @@ Self-taught developer who started building modern web applications while complet
 
 ## My skills include
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,scss,js,html,css,git,nodejs,mongodb,jest,figma" alt="Skills" />
 </p>
 
