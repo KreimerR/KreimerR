@@ -1,4 +1,4 @@
-# Rodion Kreimer
+# Rod Kreimer
 
 **Front-End / Full-Stack Developer**
 
