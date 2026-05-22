@@ -1,8 +1,8 @@
-# Rod Kreimer
+# Rodion Kreimer
 
 **Front-End / Full-Stack Developer**
 
-kreimerrodion@gmail.com | [LinkedIn](https://www.linkedin.com/in/rod-kreimer/) | Nof HaGalil, Israel
+kreimerrodion@gmail.com | [LinkedIn](https://www.linkedin.com/in/rodion-kreimer/) | Nof HaGalil, Israel
 
 ---
 
